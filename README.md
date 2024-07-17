@@ -24,7 +24,7 @@ CNVD-2023-81523
 <br>
 CNVD-2023-77235
 <br>
-CNVD-YCGW-202309048776 （Hikvision Fixed）
+CNVD-YCGW-202309048776 （About Hikvision Already fixed）
 <br>
 ### Fist Blood Memorial
 
