@@ -31,7 +31,3 @@ And More
 
 <img src="./images/first.png">
 
-### Github Activation
-
-[![](https://activity-graph.herokuapp.com/graph?username=superdegree&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=superdegree&show_icons=true&theme=vue)
